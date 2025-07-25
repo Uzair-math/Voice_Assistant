@@ -1,0 +1,5 @@
+groq
+pyaudio
+speechrecognition
+python-dotenv
+playsound==1.2.2
